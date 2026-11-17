@@ -61,6 +61,7 @@ p { margin: 0 0 12px; }
 .services { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; }
 .card { border: 1px solid var(--line); border-radius: 8px; padding: 14px 16px; }
 .card h3 { margin-top: 0; }
+.card .for { color: var(--accent); font-size: 0.85rem; margin-bottom: 6px; }
 .card p { margin: 0; color: var(--muted); font-size: 0.95rem; }
 
 .item { margin-bottom: 18px; }
